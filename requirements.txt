@@ -1,0 +1,8 @@
+# requirements.txt
+pyautogui
+pytesseract
+openai
+keyboard
+PillOW
+python-dotenv
+numpy
